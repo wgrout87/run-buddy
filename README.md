@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy Inc.
 
 ## Purpose
 A website that offers fitness training services.
@@ -14,4 +14,4 @@ https://wgrout87.github.io/run-buddy
 Made with ❤️ by William Grout
 
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc
