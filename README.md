@@ -12,3 +12,6 @@ https://wgrout87.github.io/run-buddy
 
 ## Contribution
 Made with ❤️ by William Grout
+
+
+### ©️2019 Run Buddy, Inc
