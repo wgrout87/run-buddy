@@ -61,16 +61,22 @@
                 <input type="tel" placeholder="Phone Number" name="phone" id="phone" class="form-input" />
                 <p>
                     Have you worked out with a trainer before?
-                    <input type="radio" name="trainer-confirm" id="trainer-yes" />
-                    <label for="trainer-yes">Yes</label>
-                    <input type="radio" name="trainer-confirm" id="trainer-no" />
-                    <label for="trainer-no">No</label>
+                    <span class="radio-wrapper">
+                        <input type="radio" name="trainer-confirm" id="trainer-yes" />
+                        <label for="trainer-yes">Yes</label>
+                    </span>
+                    <span class="radio-wrapper">
+                        <input type="radio" name="trainer-confirm" id="trainer-no" />
+                        <label for="trainer-no">No</label>
+                    </span>
                 </p>
                 <p>
-                    <label for="checkbox">
-                        I acknowledge that I am at least 18 years of age.
-                    </label>
-                    <input type="checkbox" name="age-confirm" id="checkbox" />
+                    <span class="checkbox-wrapper">
+                        <input type="checkbox" name="age-confirm" id="checkbox" />
+                        <label for="checkbox">
+                            I acknowledge that I am at least 18 years of age.
+                        </label>
+                    </span>
                 </p>
                 <button type="submit">
                     Get running!
@@ -233,7 +239,7 @@
                     12345<br />
                     P: 555.RUN.BUDZ (555.786.2839)<br />
                     E: <a href="mailto:info@runbuddy.io">info@runbuddy.io</a>
-                </address>                
+                </address>
             </div>
 
             <div class="contact-form">
@@ -248,7 +254,7 @@
                     <button type="submit">Submit</button>
                 </form>
             </div>
-            
+
             <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3028.903714214888!2d-111.8138566843259!3d40.609947979343154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x875262df2447c935%3A0x5eae5d912201810e!2s2862%20Pamela%20Dr%2C%20Cottonwood%20Heights%2C%20UT%2084121!5e0!3m2!1sen!2sus!4v1646630953304!5m2!1sen!2sus"
                 style="border:0;" allowfullscreen="" loading="lazy">
